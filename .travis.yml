@@ -17,7 +17,7 @@ notifications:
   webhooks:
     urls:
       - https://webhooks.gitter.im/e/f5350a3bccfdf3d07867
-sudo: false
+sudo: required
 branches:
   only:
     - compatibleTest
