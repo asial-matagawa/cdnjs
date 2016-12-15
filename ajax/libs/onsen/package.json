@@ -28,8 +28,7 @@
     {
       "basePath": "",
       "files": [
-        "js/*",
-        "css/*"
+        "+(js|css)/**/*"
       ]
     }
   ]
