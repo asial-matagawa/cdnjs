@@ -28,7 +28,7 @@
     {
       "basePath": "",
       "files": [
-        "+(js|css)/**/*"
+        "+(js|css)/**/*onsen*"
       ]
     }
   ]
